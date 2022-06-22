@@ -7,3 +7,6 @@ let person1 = {
     lname : "mahdavi",
     age : 25
 };
+let person5 = {
+    name : "varxa'l;ih"
+}
