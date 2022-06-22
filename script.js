@@ -1,5 +1,4 @@
 let person = {
     name : "saleh",
-    lname : "alilou",
-    age : 18
+    lname : "alilou"
 };
