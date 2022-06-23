@@ -7,6 +7,7 @@ function square(number){
     let result = number ** 2;
     return result;
 };
+// assign y for ....
 let y = square(5);
 console.log(y);
 
@@ -30,6 +31,8 @@ else if(math1 === "fail"){
     console.log("you can study math1 and math2")
 };
 console.log(true && true && true)
+
+
 
 
 
@@ -57,6 +60,12 @@ if(buy === true){
 }else if(buy === false){
     console.log("you can't buy it")
 }
+
+
+
+let login1 = false;
+let result2 = login1 === true ? "dashbord" : "please login first"
+
 
 
 
